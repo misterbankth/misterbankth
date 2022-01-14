@@ -4,7 +4,8 @@
 - ---- Deep Learning & Machine Learning (in the future will include about A.I.)
 - ---- Data Science
 - ---- software engineer
-- ---- 3D Modeling,Rigging,Texturing (all things in character design) -💻 Programing Language that I know or I interest
+- ---- 3D Modeling,Rigging,Texturing (all things in character design) 
+- 💻 Programing Language that I know or I interest
 - ---- Java
 - ---- Python
 - ---- C,C#,C++
